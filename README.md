@@ -11,22 +11,22 @@ A structured collection of **72 C programming assignments and lab exercises** cr
 
 | File Name | Description |
 | :--- | :--- |
-| `1st_program.c` | Initial setup program |
-| `hello_world.c` | Basic output program |
-| `Addition_of_Two_Numbers.c` | Addition of two numbers |
-| `Addition_of_Two_Numbers_2.c` | Multi-operation arithmetic |
-| `Arithmetic_Operators.c` | Operator demonstration |
-| `Arithmetic_Operators_function.c` | Arithmetic via user functions |
-| `Average_of_5_Float_Numbers.c` | Float average calculator |
-| `Celsius_to_Fahrenheit.c` | Basic temperature conversion |
-| `Celsius_to_Fahrenheit_Float.c` | Precise temperature conversion |
-| `Simple_Interest.c` | Simple interest calculation |
-| `Simple_Interest_Float.c` | Floating-point interest calculation |
-| `Exchange_Two_Numbers_Using_Temp.c` | Swapping values using temp variable |
-| `Exchange_Two_Numbers_Without_Usi...` | Swapping values without temp variable |
-| `swap_using_call_by_value.c` | Swapping via call-by-value |
-| `swap_using_pointer.c` | Swapping via pointers |
-| `square_of_6_using_call_funct.c` | Function-based square calculation |
+| `1_first_program.c` | Initial setup program |
+| `2_hello_world.c` | Basic output program |
+| `3_Addition_of_Two_Numbers.c` | Addition of two numbers |
+| `4_Addition_of_Two_Numbers_2.c` | Multi-operation arithmetic |
+| `5_Arithmetic_Operators.c` | Operator demonstration |
+| `6_Arithmetic_Operators_function.c` | Arithmetic via user functions |
+| `7_Average_of_5_Float_Numbers.c` | Float average calculator |
+| `8_Celsius_to_Fahrenheit.c` | Basic temperature conversion |
+| `9_Celsius_to_Fahrenheit_Float.c` | Precise temperature conversion |
+| `10_Simple_Interest.c` | Simple interest calculation |
+| `11_Simple_Interest_Float.c` | Floating-point interest calculation |
+| `12_Exchange_Two_Numbers_Using_Temp.c` | Swapping values using temp variable |
+| `13_Exchange_Two_Numbers_Without_Usi...` | Swapping values without temp variable |
+| `14_swap_using_call_by_value.c` | Swapping via call-by-value |
+| `15_swap_using_pointer.c` | Swapping via pointers |
+| `16_square_of_6_using_call_funct.c` | Function-based square calculation |
 
 </details>
 
