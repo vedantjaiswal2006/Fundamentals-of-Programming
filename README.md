@@ -1,6 +1,6 @@
 # 🎓 C Programming Academic Lab Repository 💻
 
-A structured collection of **72 C programming assignments and lab exercises** created using Visual Studio Code for college coursework.
+A structured collection of **C programming assignments and lab exercises** created using Visual Studio Code for college coursework.
 
 ---
 
