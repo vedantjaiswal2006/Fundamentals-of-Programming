@@ -6,7 +6,6 @@ A structured collection of **C programming assignments and lab exercises** creat
 
 ## 📂 Repository Contents
 
-<details>
 <summary><b>1. Basic Operations & Fundamentals (16 Files)</b></summary>
 
 | File Name | Description |
@@ -28,7 +27,6 @@ A structured collection of **C programming assignments and lab exercises** creat
 | `15_swap_using_pointer.c` | Swapping via pointers |
 | `16_square_of_6_using_call_funct.c` | Function-based square calculation |
 
-</details>
 
 <details>
 <summary><b>2. Control Flow, Conditionals & Logical Logic (14 Files)</b></summary>
